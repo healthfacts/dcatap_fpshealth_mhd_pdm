@@ -1,0 +1,27 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "238cf7c9-33df-c07f-9ec8-1385aaf91504",
+    "title": "Market share of Belgian hospitals per municipality of residence of the patient (2017) : Day hospitalization (version française)",
+    "description": "This data provides the market share of hospitals per municipality of residence of the patient and per age group. The entirety of hospital stays is regarded as a “market” that is divided among the various hospitals. The market share is shown here per municipality of residence of the patient, both per age group and for all age groups together.",
+    "publisher": "Federal Public Service Public Health, Food Chain Safety and Environment",
+    "downloadURL": "https://github.com/healthfacts/distributions_fpshealth_mhd_pdm/blob/main/fpshealth_mhd_pdm_2017_fr_hospitalisation_de_jour.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_fpshealth_mhd_pdm/blob/main/fpshealth_mhd_pdm_2017_fr_hospitalisation_de_jour.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 716766,
+    "modificationDate": "2023-11-28 09:17:44",
+    "status": "completed",
+    "language": "fr",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://www.health.belgium.be/en/node/36322",
+    "keyword": [],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "d67a4462-2aec-4cda-b59d-90a397e0e356",
+        "title": "Market share of Beligian hospitals per municipality of residence of the patient and per age group",
+        "landingPage": "https://www.health.belgium.be/en/node/36322",
+        "contactPoint": "FPS Public Health, Food Chain Safety and Environment, Directorate General of Healthcare, Data and Policy Information Service, Galileelaan 5/01, 1210 Brussels, Belgium",
+        "contactPointEmail": "adhoc_admDM@health.fgov.be"
+    }
+}
